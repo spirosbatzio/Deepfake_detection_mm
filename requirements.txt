@@ -1,0 +1,26 @@
+# --- PyTorch (CUDA 12.1 build for RTX 3070) ---
+# Install torch/torchaudio from the CUDA index, NOT plain PyPI:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Then install the rest of this file:
+#   pip install -r requirements.txt
+torch
+torchaudio
+
+# --- Models / audio ---
+transformers>=4.40
+librosa
+soundfile
+
+# --- Data / ML ---
+pandas
+numpy
+scikit-learn
+
+# --- Visual stream (optional, Steps 7-8) ---
+opencv-python
+mediapipe
+
+# --- Utilities ---
+tqdm
+matplotlib
+jupyter

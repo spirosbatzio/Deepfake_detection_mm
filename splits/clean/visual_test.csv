@@ -1,0 +1,21 @@
+clip_path,label,type,max_corr,best_lag,n_frames
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id00025\00025_id00025_wavtolip.mp4,1,FakeVideo-FakeAudio,0.3739128058774318,-3,207
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00042\00028_id00188_wavtolip.mp4,1,FakeVideo-FakeAudio,0.43376645269361863,-4,82
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\men\id00055\00120_id00063_cVZBXC2rjPM_id01058_wavtolip.mp4,1,FakeVideo-FakeAudio,0.11883452818694439,6,121
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Asian (East)\women\id00137\00025_id00137_wavtolip.mp4,1,FakeVideo-FakeAudio,0.17368323516325448,1,100
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id00190\00072_id00025_wavtolip.mp4,1,FakeVideo-FakeAudio,0.012582888335445498,6,115
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00270\00088_id00042_wavtolip.mp4,1,FakeVideo-FakeAudio,0.3795073807889619,-3,107
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\African\men\id00366\00118_id00076_Isiq7cA-DNE_faceswap_id01170_wavtolip.mp4,1,FakeVideo-FakeAudio,0.17408127272143492,-3,148
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00495\00027_id00068_A7uFnQw--bY_id00634_wavtolip.mp4,1,FakeVideo-FakeAudio,0.5307544724977648,-3,106
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (European)\women\id00569\00239_0_id00330_wavtolip.mp4,1,FakeVideo-FakeAudio,0.1919827609394166,2,111
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-FakeAudio\Caucasian (American)\women\id00680\00110_id00025_wavtolip.mp4,1,FakeVideo-FakeAudio,0.24448995778186292,-1,121
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00020\00206_0.mp4,0,FakeVideo-RealAudio,0.21210180081440191,0,331
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00062\00278_id00018_sap-FjURHlc.mp4,0,FakeVideo-RealAudio,0.2663862935845809,2,306
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\men\id00088\00005_id00018_sap-FjURHlc.mp4,0,FakeVideo-RealAudio,0.20642535363464376,-1,123
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\men\id00103\00241_0.mp4,0,FakeVideo-RealAudio,0.19522629936706293,6,100
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (East)\men\id00126\00173_id00560_HCZHIOhZ6XM.mp4,0,FakeVideo-RealAudio,0.06029465476031045,-5,264
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (American)\women\id00180\00206_id00097_PchMB8-P1lw.mp4,0,FakeVideo-RealAudio,0.21106694737859272,2,126
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\women\id00332\00293_0.mp4,0,FakeVideo-RealAudio,0.25583373119761316,-6,159
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Asian (South)\men\id00350\00015_id00078_wavtolip.mp4,0,FakeVideo-RealAudio,-0.21238171414320867,6,97
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\African\women\id00371\00099_id00220_WlHLlTQKj8g.mp4,0,FakeVideo-RealAudio,0.03291155795678051,-3,127
+C:\Users\tzou8\PycharmProjects\Multimodal-DF\data\FakeAVCeleb_v1.2\FakeAVCeleb_v1.2\FakeVideo-RealAudio\Caucasian (European)\women\id00373\00028_0.mp4,0,FakeVideo-RealAudio,0.23283079500367038,-1,235
